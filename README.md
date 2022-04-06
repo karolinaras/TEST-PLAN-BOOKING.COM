@@ -1,10 +1,11 @@
 # TEST-PLAN-BOOKING.COM
 Nauka pisania planu testu na przykładzie wyszukiwarki booking.com
 NAME: TEST PLAN - wyszukiwarka
+
 DESCRIPTION: 
   1.Wstęp
   Głównym celem działań testowych jestd dostarczenie interesariuszom informacji o jakości testowanego produktu.
-  W przygotowanym dokumencie zostałyzebrane kluczowe informacje natemat działań testowych. Zostały wyszczególnione wszystkie komponenty oprogramowania, które zostaną poddane weryfikacji, typy testów jakie zostaną przeprowadzone.
+  W przygotowanym dokumencie zostały zebrane kluczowe informacje na temat działań testowych. Zostały wyszczególnione wszystkie komponenty oprogramowania, które zostaną poddane weryfikacji, typy testów jakie zostaną przeprowadzone.
  
  2.Zakres testów
  Realizowane typy testów: 
@@ -15,7 +16,7 @@ DESCRIPTION:
  -testy automatyczne- ze względu na brak wystarczającego budżetu na etap związany z testowaniem oprogramowania.
  
  3.Przedmioty testów
- Komponentem poddawanym testomjest wyszukiwarka ze stronygównej booking.com z uwzględnieniem całej logiki filtrowania po odpowiednich polach.
+ Komponentem poddawanym testom jest wyszukiwarka ze strony gównej booking.com z uwzględnieniem całej logiki filtrowania po odpowiednich polach.
 
 4.Kryteria zaliczenia/niezaliczenia testów
 -wykonanie zaprojektowanych przypadków testowych
@@ -60,10 +61,10 @@ Załącznie wsyzstkich dokumentacji, scenariuszy, user story itp.
 -Browserstack
 
 11.Zarządzanie incydentami,błędami
-W procesie testowym każdy wykryty błąd powinien być odpowiednio zaroportowany do systemu Jira. Uwzględniającprzy tympiorytet błędu, osobę przypisaną,komponent,którego dotyczy problem.
-Zgodnie z przyjętym flow przez naszą organizacjęproblem powinien zostać naprawiony przez dewelopera i trafić do retestów
+W procesie testowym każdy wykryty błąd powinien być odpowiednio zaroportowany do systemu Jira. Uwzględniając przy tym piorytet błędu, osobę przypisaną,komponent,którego dotyczy problem.
+Zgodnie z przyjętym flow przez naszą organizację problem powinien zostać naprawiony przez dewelopera i trafić do retestów.
 
 12.Role i odpowiedzialność
-Karolina Raś - projektowanie i wykonywanie przypadków tesowych
+Karolina Raś - projektowanie i wykonywanie przypadków testowych
 
 

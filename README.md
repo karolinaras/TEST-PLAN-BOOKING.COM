@@ -61,7 +61,8 @@ Załącznie wsyzstkich dokumentacji, scenariuszy, user story itp.
 -Jira
 -Browserstack
 
-11.Zarządzanie incydentami,błędami
+11.Zarządzanie incydentami, błędami
+
 W procesie testowym każdy wykryty błąd powinien być odpowiednio zaroportowany do systemu Jira. Uwzględniając przy tym piorytet błędu, osobę przypisaną,komponent,którego dotyczy problem.
 Zgodnie z przyjętym flow przez naszą organizację problem powinien zostać naprawiony przez dewelopera i trafić do retestów.
 
